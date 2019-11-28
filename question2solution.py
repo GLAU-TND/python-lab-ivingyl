@@ -1,5 +1,5 @@
 try:
-    n=int(input('Enter a no.') + input())
+    n=int(input('Enter a no.')) + input()
     n.count()
 
 
